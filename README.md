@@ -1,0 +1,2 @@
+# whitepaper
+Comic Coin WhitePaper
